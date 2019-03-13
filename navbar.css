@@ -1,0 +1,17 @@
+img {
+    height: 65px;
+}
+footer {
+    margin-top: 600px;
+}
+nav-wrapper {
+    color: #aa00ff;
+}
+body {
+    background-image: url("https://farm2.staticflickr.com/1734/29018058578_4ccfb8dc59_b.jpg");
+    background-size: cover; 
+    height: 1200px; 
+}
+#newimage {
+   height: 800px;
+}
